@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiraAPI", "PrimeiraAPI\PrimeiraAPI.csproj", "{4A7D956A-E2DF-42D0-B54B-B59F7D5E4203}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{8924B62C-D74D-48D9-A786-10BB94D40409}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{4A7D956A-E2DF-42D0-B54B-B59F7D5E4203}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A7D956A-E2DF-42D0-B54B-B59F7D5E4203}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A7D956A-E2DF-42D0-B54B-B59F7D5E4203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8924B62C-D74D-48D9-A786-10BB94D40409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8924B62C-D74D-48D9-A786-10BB94D40409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8924B62C-D74D-48D9-A786-10BB94D40409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8924B62C-D74D-48D9-A786-10BB94D40409}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
