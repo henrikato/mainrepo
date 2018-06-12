@@ -829,13 +829,13 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 #footer, #footer.footer_msg_input {
-    background: #222;
-    box-shadow: inset 1px 0 0 0 #222;
+    background: #172130;
+    box-shadow: inset 1px 0 0 0 #172130;
 }
 
     #footer.disabled #message-input, #footer.disabled #msg_input {
-        background: padding-box #363636 !important;
-        border-color: #363636 !important;
+        background: padding-box #172130 !important;
+        border-color: #172130 !important;
     }
 
 #footer_archives_table {
