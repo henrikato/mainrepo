@@ -313,7 +313,7 @@ h1, h2, h3, h4 {
 }
 
 #loading_team_menu_bg, #loading_user_menu_bg {
-    background: #222;
+    background: #172130;
     border: none;
 }
 
@@ -1499,13 +1499,13 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 #team_menu {
-    background: #363636;
-    border-bottom: 2px solid #363636;
+    background: #172130;
+    border-bottom: 2px solid #172130;
     color: #a1a1a1;
 }
 
     #team_menu.active, #team_menu:hover {
-        background: #363636 !important;
+        background: #172130 !important;
         border-bottom-color: #363636 !important;
     }
 
