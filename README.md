@@ -7,9 +7,9 @@ Repositório principal onde armazeno (quase) todos os arquivos, programas e cód
 Criei este arquivo para utilizar como um tema customizado do aplicativo para Desktop do Slack.
 #### Passo-a-passo:
 ##### 1. Procurar o arquivo `ssb-interop.js`
-⋅⋅⋅Caminho do arquivo no Windows: `%homepath%\AppData\Local\slack\app-x.x.x\resources\app.asar.unpacked\src\static\ssb-interop.js`
-⋅⋅⋅Caminho do arquivo no macOS: `/Applications/Slack.app/Contents/Resources/app.asar.unpacked/src`
-⋅⋅⋅(procurar sempre a pasta app-* mais recente, exemplo: `\app-3.2.0\`)
+   Caminho do arquivo no Windows: `%homepath%\AppData\Local\slack\app-x.x.x\resources\app.asar.unpacked\src\static\ssb-interop.js`  
+   Caminho do arquivo no macOS: `/Applications/Slack.app/Contents/Resources/app.asar.unpacked/src`  
+   (procurar sempre a pasta app-* mais recente, exemplo: `\app-3.2.0\`)  
 
 ##### 2. No final do arquivo acima encontrado, inserir o seguinte script no final do código:
 ```javascript
