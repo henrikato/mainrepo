@@ -8612,8 +8612,12 @@ comments {
         background-color: #0b1017;
     }
 .channel_header {
-    background: linear-gradient(#0b1017, #232323);
+    background: linear-gradient(130deg, #175a91 25%, #232323 25%);
 }
-.channel_title_info {    
-    background: linear-gradient(#0b1017, #232323);
-}
+    .channel_header_icon {
+        box-shadow: 0 2px 2px 0 rgba(0,0,0,.3);
+        transition: all ease .2s;
+    }
+        .channel_header_icon:hover{
+            box-hadow: 0 4px 10px 0 rgba(0,0,0,.4);
+        }
