@@ -8612,7 +8612,8 @@ comments {
         background-color: #0b1017;
     }
 .channel_header {
-    background: linear-gradient(130deg, #172130 25%, #191919 25%, #323232 26%, #323232 26%)
+    background: linear-gradient(130deg, #172130 25%, #191919 25%, #323232 26%, #323232 26%);
+    color: #fffffff;
 }
     .channel_header_icon {
         box-shadow: 0 2px 2px 0 rgba(0,0,0,.3);
