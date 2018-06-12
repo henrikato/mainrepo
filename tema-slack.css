@@ -1548,15 +1548,6 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     color: #949494;
 }
 
-.channel_header {
-    background: #222;
-    box-shadow: inset 1px 0 0 0 #222;
-}
-
-    .channel_header .blue_on_hover:hover {
-        color: #a1a1a1;
-    }
-
 #client_body:not(.onboarding)::before {
     background: #222;
     border-bottom: 1px solid #363636;
@@ -8591,14 +8582,21 @@ comments {
     .slack_menu_section {
         background-color: #0b1017;
     }
+
 .channel_header {
     background: linear-gradient(130deg, #172130 30%, #191919 30%, #323232 31%, #323232 32%);
     color: #fffffff;
     padding: .7rem 0 .7rem 0;
+    box-shadow: 0 6px 6px 0 rgba(0,0,0,.6);
 }
     .channel_title{
         color: #fff;
     }
+
+    .channel_header .blue_on_hover:hover {
+        color: #a1a1a1;
+    }
+
     .channel_header_icon {
         background-color: #172130;
         box-shadow: 0 2px 2px 0 rgba(0,0,0,.3);
@@ -8620,7 +8618,7 @@ comments {
 #footer, #footer.footer_msg_input {
     padding-top: 20px;
     background: #323232;
-    box-shadow: 0 -6px 6px 0 rgba(0,0,0,.6);
+    box-shadow: 0 -4px 4px 0 rgba(0,0,0,.6);
 }
 
     #footer.disabled #message-input, #footer.disabled #msg_input {
