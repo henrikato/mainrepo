@@ -8587,7 +8587,7 @@ comments {
     background: linear-gradient(130deg, #172130 30%, #191919 30%, #323232 31%, #323232 32%);
     color: #fffffff;
     padding: .7rem 0 .7rem 0;
-    box-shadow: 0 6px 6px 0 rgba(0,0,0,.6);
+    /*box-shadow: 0 6px 6px -2px rgba(0,0,0,.3);*/
 }
     .channel_title{
         color: #fff;
@@ -8607,6 +8607,9 @@ comments {
             background-color: #263c5e;
             box-hadow: 0 4px 10px 0 rgba(0,0,0,.4);
         }
+.c-scrollbar__hider::after{
+    
+}
 .c-scrollbar__hider::before {
     background: transparent;
 }
