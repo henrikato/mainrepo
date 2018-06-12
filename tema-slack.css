@@ -8198,10 +8198,6 @@ ts-rocket {
     background-color: #000;
 }
 
-.c-virtual_list__scroll_container{
-    background-color: #222;
-}
-
 nav {
     background: #363636;
 }
@@ -8588,3 +8584,16 @@ comments {
     .para_menu a.trigger.pilcrow:hover, .para_menu a.trigger.pilcrow.active {
         filter: grayscale(2) brightness(2);
     }
+
+
+.c-virtual_list__scroll_container {
+    background-color: #222;
+}
+
+.p-degraded_list__loading {
+    background-color: #222;
+}
+
+c-menu {
+    background-color: #222;
+}
