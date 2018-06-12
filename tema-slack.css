@@ -8597,3 +8597,7 @@ comments {
 .c-menu {
     background-color: #222;
 }
+
+.c-menu_item__li {
+    color: #949494;
+}
