@@ -8612,8 +8612,8 @@ comments {
         background-color: #0b1017;
     }
 .channel_header {
-    background-color: #232323;
+    background: linear-gradient(to bottom right, 0b1017, #232323);
 }
 .channel_title_info {    
-    background-color: #232323;
+    background: linear-gradient(to bottom right, 0b1017, #232323);
 }
