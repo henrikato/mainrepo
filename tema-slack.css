@@ -8603,8 +8603,14 @@ comments {
 }
 
 .menu_body {
-    background-color: #0b1017
+    background-color: #0b1017;
 }
     .menu_item_label {
         color: #a1a1a1;
     }
+    .menu_list {
+        background-color: #0b1017;
+    }
+#client_header {
+    background-color: #0b1017;
+}
