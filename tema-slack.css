@@ -829,13 +829,13 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 #footer, #footer.footer_msg_input {
-    background: #0b1017;
-    box-shadow: inset 1px 0 0 0 #172130;
+    background: #06080c;
+    box-shadow: inset 1px 0 0 0 #06080c;
 }
 
     #footer.disabled #message-input, #footer.disabled #msg_input {
-        background: padding-box #0b1017 !important;
-        border-color: #0b1017 !important;
+        background: padding-box #06080c !important;
+        border-color: #06080c !important;
     }
 
 #footer_archives_table {
@@ -8611,6 +8611,6 @@ comments {
     .menu_list {
         background-color: #0b1017;
     }
-#client_header {
+.channel_header {
     background-color: #0b1017;
 }
