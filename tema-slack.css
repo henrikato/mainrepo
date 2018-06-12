@@ -8611,6 +8611,6 @@ comments {
     .menu_list {
         background-color: #0b1017;
     }
-.channel_header {
+.channel_header, .channel_title_info {    
     background-color: #0b1017;
 }
