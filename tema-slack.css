@@ -8585,7 +8585,10 @@ comments {
     .menu_item_label {
         color: #a1a1a1;
     }
-    .menu_list {
+    .menu-item-label:hover{
+        color: #fffff;
+    }
+    .slack_menu_section {
         background-color: #0b1017;
     }
 .channel_header {
@@ -8602,19 +8605,20 @@ comments {
             background-color: #263c5e;
             box-hadow: 0 4px 10px 0 rgba(0,0,0,.4);
         }
-.c-scrollbar_hider::before {
-    background-color: linear-gradient(130deg, #172130 30%, #191919 30%, #323232 31%, #323232 32%);
+.c-scrollbar__hider::before {
+    background-color: linear-gradient(130deg, #172130 35%, #191919 35%, #323232 36.5%, #323232 36.5%);
     box-shadow: 0 6px 6px 0 rgba(0,0,0,.6);
 }
     .c-message_list__day_divider__label__pill {
-        background-color: linear-gradient(130deg, #172130 30%, #191919 30%, #323232 31%, #323232 32%);
+        background-color: linear-gradient(130deg, #172130 35%, #191919 35%, #323232 36.5%, #323232 36.5%);
         color: #a1a1a1;
         box-shadow
     }
 
 #footer, #footer.footer_msg_input {
+    padding-top: 20px;
     background: #323232;
-    box-shadow: inset 1px 0 0 0 #232323;
+    box-shadow: 0 -6px 6px 0 rgba(0,0,0,.6);
 }
 
     #footer.disabled #message-input, #footer.disabled #msg_input {
