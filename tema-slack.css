@@ -8584,7 +8584,7 @@ comments {
     }
 
 .channel_header {
-    background: linear-gradient(130deg, #172130 30%, #191919 30%, #323232 31%, #323232 32%);
+    background: linear-gradient(130deg, #172130 35%, #191919 35%, #323232 37.5%, #323232 37.5%);
     color: #fffffff;
     padding: .7rem 0 .7rem 0;
     /*box-shadow: 0 6px 6px -2px rgba(0,0,0,.3);*/
@@ -8599,22 +8599,16 @@ comments {
 
     .channel_header_icon {
         background-color: #172130;
-        box-shadow: 0 2px 2px 0 rgba(0,0,0,.3);
+        box-shadow: 0 4px 10px 0 rgba(0,0,0,.3);
         transition: all ease .2s;
         margin: 0 5px;
     }
-        .channel_header_icon:hover{
-            background-color: #263c5e;
-            box-hadow: 0 4px 10px 0 rgba(0,0,0,.4);
-        }
-.c-scrollbar__hider::after{
-    
-}
+
 .c-scrollbar__hider::before {
-    background: transparent;
+    background: linear-gradient(130deg, #172130 35%, #191919 35%, #323232 36.5%, #323232 36.5%);
 }
     .c-message_list__day_divider__label__pill {
-        background-color: linear-gradient(130deg, #172130 35%, #191919 35%, #323232 36.5%, #323232 36.5%);
+        background: transparent;
         color: #a1a1a1;
     }
 
