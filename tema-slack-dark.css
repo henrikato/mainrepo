@@ -22,9 +22,9 @@
 #col_messages{
 	background-color: #212121;
 }
-#messages_container{
+.c-virtual_list{
 	background-color: #212121;
 }
-#footer{
+#footer_msgs{
 	background-color: #212121;
 }
