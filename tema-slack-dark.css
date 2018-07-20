@@ -28,10 +28,10 @@
 .c-virtual_list__scroll_container span{
 	color: #eeeeee;
 }
-.c-virtual_list__item:hover{
+div.c-virtual_list__item:hover{
 	background-color: #222222;
 }
-.c-message__sender_link{
+a.c-message__sender_link{
 	color: #ffffff;
 }
 #footer_msgs{
