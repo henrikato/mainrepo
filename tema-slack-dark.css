@@ -31,7 +31,7 @@
 .c-virtual_list__item:hover{
 	background-color: #222222;
 }
-.c-message__sender > a{
+.c-message__sender_link{
 	color: #ffffff;
 }
 #footer_msgs{
