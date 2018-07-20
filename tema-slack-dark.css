@@ -24,6 +24,10 @@
 }
 .c-virtual_list__scroll_container{
 	background-color: #212121;
+	color: #eee;
+}
+.c-message--hover{
+	background-color: #222222;
 }
 #footer_msgs{
 	background-color: #212121;
