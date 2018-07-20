@@ -1,13 +1,13 @@
 .client_channels_list_container{
-	background-color: #0D47A1;
-}
-.client_main_container{
-	background-color: #333;
+	background-color: #062047;
 }
 .channel_header{
-	background-color: #1565C0;
+	background-color: #0C1638;
 }
-.channel_header button{
+.channel_title_info button{
+	background-color: #1E88E5;
+}
+.flex_header button{
 	background-color: #1E88E5;
 }
 .client_body{
@@ -17,12 +17,12 @@
 	background-color: #0D47A1;
 }
 .p-channel_sidebar__list{
-	background-color: #0D47A1;
+	background-color: #031228;
 }
 #col_messages{
 	background-color: #212121;
 }
-.c-virtual_list{
+.c-virtual_list__scroll_container{
 	background-color: #212121;
 }
 #footer_msgs{
