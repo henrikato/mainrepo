@@ -11,7 +11,7 @@
 	background-color: #1E88E5;
 }
 .client_body{
-	background-color: #212121;
+	background-color: #121212;
 }
 .c-scrollbar__hider::before{
 	background-color: #0D47A1;
@@ -20,20 +20,20 @@
 	background-color: #031228;
 }
 #col_messages{
-	background-color: #212121;
+	background-color: #121212;
 }
 .c-virtual_list__scroll_container{
-	background-color: #212121;
+	background-color: #121212;
 }
 .c-virtual_list__scroll_container span{
 	color: #eeeeee;
 }
-div.c-virtual_list__item:hover{
+div.c-virtual_list__item .c-message--hover{
 	background-color: #222222;
 }
-a.c-message__sender_link{
+.c-message a{
 	color: #ffffff;
 }
 #footer_msgs{
-	background-color: #212121;
+	background-color: #121212;
 }
