@@ -1,10 +1,10 @@
-.client_channels_list_container{ background-color: #062047; }
-.channel_header{ background-color: #0C1638; }
+.client_channels_list_container{ background-color: #0C1638; }
+.channel_header{ background-color: #062047; }
 .channel_title_info button{ background-color: #1E88E5; }
 .flex_header button{ background-color: #1E88E5; }
 .client_body{ background-color: #121212; }
 .c-scrollbar__hider::before{ background-color: #0D47A1; }
-.p-channel_sidebar__list{ background-color: #031228; }
+.p-channel_sidebar__list{ background-color: #062047; }
 #col_messages{ background-color: #121212; }
 .c-virtual_list__scroll_container{ background-color: #121212; }
 .c-virtual_list__scroll_container span{ color: #eeeeee; }
