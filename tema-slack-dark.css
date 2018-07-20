@@ -28,8 +28,11 @@
 .c-virtual_list__scroll_container span{
 	color: #eeeeee;
 }
-.c-message:hover{
+.c-virtual_list__item:hover{
 	background-color: #222222;
+}
+.c-message span{
+	color: #ffffff;
 }
 #footer_msgs{
 	background-color: #212121;
