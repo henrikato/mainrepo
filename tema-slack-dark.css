@@ -1,39 +1,15 @@
-.client_channels_list_container{
-	background-color: #062047;
-}
-.channel_header{
-	background-color: #0C1638;
-}
-.channel_title_info button{
-	background-color: #1E88E5;
-}
-.flex_header button{
-	background-color: #1E88E5;
-}
-.client_body{
-	background-color: #121212;
-}
-.c-scrollbar__hider::before{
-	background-color: #0D47A1;
-}
-.p-channel_sidebar__list{
-	background-color: #031228;
-}
-#col_messages{
-	background-color: #121212;
-}
-.c-virtual_list__scroll_container{
-	background-color: #121212;
-}
-.c-virtual_list__scroll_container span{
-	color: #eeeeee;
-}
-div.c-virtual_list__item .c-message--hover{
+.client_channels_list_container{ background-color: #062047; }
+.channel_header{ background-color: #0C1638; }
+.channel_title_info button{ background-color: #1E88E5; }
+.flex_header button{ background-color: #1E88E5; }
+.client_body{ background-color: #121212; }
+.c-scrollbar__hider::before{ background-color: #0D47A1; }
+.p-channel_sidebar__list{ background-color: #031228; }
+#col_messages{ background-color: #121212; }
+.c-virtual_list__scroll_container{ background-color: #121212; }
+.c-virtual_list__scroll_container span{ color: #eeeeee; }
+.c-message--focus:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message--hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message:hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight){
 	background-color: #222222;
 }
-.c-message a{
-	color: #ffffff;
-}
-#footer_msgs{
-	background-color: #121212;
-}
+.c-message_sender{ color: #ffffff; }
+#footer_msgs{ background-color: #121212; }
