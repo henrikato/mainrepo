@@ -1,5 +1,4 @@
 ### Primeiramente,
-O JOGO
-![você perdeu](https://upload.wikimedia.org/wikipedia/commons/d/dd/O_Jogo_Logotipo.jpg)
+# O Jogo.
 ------
 > _Nos dias 27 e 28 de setembro de 2018, sobre os efeitos de puro entusiasmo e [500mg de cafeína](https://i.imgflip.com/1r7l1b.jpg), um ser humano que aparentemente estava empolgado e [~~agitado~~](https://media.giphy.com/media/zJ8ldRaGLnHTa/giphy.gif) em estar fazendo algo novo e desafiador utilizando [Python 3](https://www.python.org/) (uma linguagem nunca antes utilizada por ele) fez alguns trabalhos de faculdade de scraping de dados de previsão meteorológica, obtendo estes dados de páginas HTML e respostas de requisições HTTP (no formato JSON), de sites como o [Inmet](http://www.inmet.gov.br/) e [National Weather Service](https://forecast.weather.gov/MapClick.php?lat=39.1404&lon=-77.1937). Esta façanha foi possível com a utilização de como ferramentas desta linguagem como BeautifulSoup 4 e uma caralhada de outros métodos do Python que ele mesmo escavou vagando pelas [ruas da Rede Mundial de Computadores](https://pbs.twimg.com/media/CW4fZzHWAAADqPB.jpg)._
